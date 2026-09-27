@@ -1,212 +1,225 @@
-# Diego Nascimento Passos
 # 👋 Olá, eu sou Diego Nascimento Passos
 
 ## 💻 Desenvolvedor em Formação | Estudante de Análise e Desenvolvimento de Sistemas
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou realizando uma transição de carreira para a área de Tecnologia da Informação.
+Estou em transição de carreira para a área de Tecnologia da Informação e atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
-Tenho mais de 20 anos de experiência profissional em operações, liderança, processos e acompanhamento de indicadores. Atualmente estou direcionando essa experiência para a área de Tecnologia, desenvolvendo conhecimentos em **programação, desenvolvimento Web, Back-end e banco de dados**.
+Depois de mais de 20 anos de experiência profissional nas áreas de **operações, liderança, processos e acompanhamento de indicadores**, decidi direcionar minha experiência para a tecnologia e construir uma nova trajetória profissional como desenvolvedor.
 
-Meu objetivo é conquistar minha primeira oportunidade profissional em Tecnologia, seja por meio de **estágio ou uma posição de entrada/júnior**.
+Meu objetivo é evoluir profissionalmente até atuar como **Desenvolvedor Full Stack**, construindo aplicações completas, desde a interface até o back-end, banco de dados, APIs, segurança e implantação.
 
 ---
 
-## 🚀 Tecnologias e conhecimentos
+## 🚀 Minha jornada
 
-### 💻 Programação
+Minha formação em programação está sendo construída passo a passo.
 
-* C
-* Python
-* JavaScript
+### 01. Fundamentos
+
+**Status: 🔄 Em andamento**
+
+Estou fortalecendo minha base em:
+
 * Lógica de programação
 * Algoritmos
+* Variáveis e tipos de dados
+* Operadores
+* Estruturas condicionais
+* Estruturas de repetição
+* Funções
+* Vetores e matrizes
+* Programação em C
 
-### 🎨 Front-end
+📁 Projeto:
+
+* `fundamentos-c`
+
+---
+
+### 02. Desenvolvimento Web
+
+**Status: 🔄 Em andamento**
+
+Estou desenvolvendo conhecimentos em:
 
 * HTML5
 * CSS3
 * JavaScript
 * Responsividade
-* Flexbox
-* CSS Grid
-* DOM
-* React — em aprendizado
-
-### ⚙️ Back-end
-
-* Python — em aprendizado
-* APIs — em aprendizado
-* HTTP
-* CRUD
-* Regras de negócio
-* Integração Front-end e Back-end
-
-### 🗄️ Banco de Dados
-
-* SQL — em aprendizado
-* Banco de dados relacionais
-* Modelagem de dados — em aprendizado
-
-### 🛠️ Ferramentas
-
 * Git
 * GitHub
-* Visual Studio Code
-* Chrome DevTools
+
+Projetos práticos fazem parte do meu processo de aprendizagem, com o objetivo de transformar conhecimento teórico em aplicações reais.
 
 ---
 
-# 📚 Meus projetos
+### 03. Front-end
 
-## 🔹 Fundamentos C
+**Status: ⏳ Ainda vai começar**
 
-Projetos e exercícios desenvolvidos durante meus estudos de programação.
+Próximas tecnologias e conceitos:
 
-**Principais conceitos:**
+* JavaScript
+* DOM
+* React
+* TypeScript
+* Responsive Design
 
-* Variáveis
+O objetivo é desenvolver interfaces organizadas, responsivas e funcionais.
+
+---
+
+### 04. Back-end
+
+**Status: ⏳ Ainda vai começar**
+
+Etapa planejada para aprofundamento em:
+
+* Node.js
+* Express.js
+* APIs REST
+* SQL
+* PostgreSQL
+* MySQL
+* MongoDB
+* Autenticação
+* JWT
+* OAuth
+* Segurança de aplicações
+
+Também fazem parte do planejamento da minha formação:
+
+* Python
+* PHP
+* Ruby
+* NestJS
+
+---
+
+### 05. DevOps e Cloud
+
+**Status: ⏳ Ainda vai começar**
+
+Etapa planejada para estudar:
+
+* Docker
+* CI/CD
+* GitHub Actions
+* Cloud
+* AWS
+* Vercel
+* Render
+
+---
+
+## 🛠️ Tecnologias
+
+### ✅ Concluído
+
+* Fundamentos iniciais de programação
+* Variáveis e tipos de dados
 * Operadores
 * Estruturas condicionais
-* Estruturas de repetição
-* Funções
-* Vetores
-* Matrizes
-* Entrada e saída de dados
+* Git e GitHub — fundamentos
 
-➡️ [Acessar projeto](./fundamentos-c)
+### 🔄 Em andamento
 
----
+* C
+* Lógica de programação
+* Algoritmos
+* HTML5
+* CSS3
+* JavaScript
+* Desenvolvimento Web
 
-## 🔹 Projetos Python
+### ⏳ Ainda vai começar
 
-Projetos desenvolvidos para praticar Python, lógica de programação e resolução de problemas.
-
-**Objetivos:**
-
-* Desenvolver lógica
-* Criar pequenos sistemas
-* Trabalhar com dados
-* Praticar funções e estruturas de programação
-
-➡️ [Acessar projeto](./projetos-python)
-
----
-
-## 🔹 Banco de Dados
-
-Projetos e estudos relacionados a bancos de dados e SQL.
-
-**Conhecimentos praticados:**
-
+* React
+* TypeScript
+* Node.js
+* Express.js
+* APIs REST
 * SQL
-* CREATE
-* INSERT
-* SELECT
-* UPDATE
-* DELETE
-* JOIN
-* Relacionamentos
-* Modelagem de dados
-
-➡️ [Acessar projeto](./banco-de-dados)
+* PostgreSQL
+* MySQL
+* MongoDB
+* Docker
+* GitHub Actions
+* Cloud
+* Segurança
+* Autenticação
 
 ---
 
-## 🔹 Desenvolvimento Web
+## 📂 Projetos
+
+Meu portfólio está sendo construído progressivamente.
+
+### 📌 Fundamentos em C
+
+**Status: 🔄 Em andamento**
+
+Exercícios e projetos desenvolvidos durante minha formação em lógica de programação e linguagem C.
+
+### 📌 Projetos Python
+
+**Status: ⏳ Ainda vai começar**
+
+Projetos para desenvolver lógica, automação e programação utilizando Python.
+
+### 📌 Banco de Dados
+
+**Status: ⏳ Ainda vai começar**
+
+Projetos voltados para modelagem, consultas e manipulação de dados.
+
+### 📌 Desenvolvimento Web
+
+**Status: 🔄 Em andamento**
 
 Projetos utilizando HTML, CSS e JavaScript.
 
-**Objetivos:**
+### 📌 API de Produtos
 
-* Criar interfaces Web
-* Desenvolver páginas responsivas
-* Trabalhar com JavaScript
-* Manipular o DOM
-* Criar aplicações interativas
+**Status: ⏳ Ainda vai começar**
 
-➡️ [Acessar projeto](./desenvolvimento-web)
+Projeto voltado para desenvolvimento de APIs e integração entre sistemas.
 
----
+### 📌 Sistema de Supermercado
 
-## 🔹 API de Produtos
+**Status: ⏳ Ainda vai começar**
 
-Projeto voltado ao desenvolvimento Back-end e criação de uma API para gerenciamento de produtos.
-
-**Funcionalidades:**
-
-* Cadastrar produtos
-* Consultar produtos
-* Atualizar produtos
-* Excluir produtos
-* Trabalhar com requisições HTTP
-* Integrar API com Front-end
-
-➡️ [Acessar projeto](./api-produtos)
+Projeto para aplicar conceitos de programação, regras de negócio, banco de dados e desenvolvimento de sistemas.
 
 ---
 
-# ⭐ Sistema Supermercado
+## 🎯 Objetivo profissional
 
-Meu principal projeto de portfólio.
+Busco minha primeira oportunidade profissional na área de Tecnologia da Informação, especialmente em posições como:
 
-O objetivo é desenvolver um sistema inspirado em situações reais de um supermercado, utilizando conhecimentos de **Front-end, Back-end e Banco de Dados**.
-
-### Funcionalidades planejadas
-
-📦 Cadastro de produtos
-📊 Controle de estoque
-📅 Controle de validade
-⚠️ Controle de perdas e trocas
-🏪 Cadastro de setores
-📈 Dashboard
-📋 Relatórios
-🔎 Pesquisa de produtos
-🔐 Sistema de usuários
-
-**Tecnologias:** HTML, CSS, JavaScript, Python, API e SQL.
-
-➡️ [Acessar projeto](./sistema-supermercado)
-
----
-
-# 🎯 Objetivo profissional
-
-Estou em busca da minha primeira oportunidade na área de Tecnologia.
-
-Tenho interesse em:
-
+* Estágio em TI
+* Assistente de TI
 * Estágio em Desenvolvimento
 * Desenvolvedor Front-end Júnior
 * Desenvolvedor Back-end Júnior
 * Desenvolvedor Full Stack Júnior
-* Desenvolvimento de Sistemas
-* Assistente de TI
-* Suporte Técnico
+
+Quero transformar minha experiência profissional anterior em um diferencial, utilizando conhecimentos de **processos, organização, liderança, indicadores e resolução de problemas** no desenvolvimento de soluções tecnológicas.
 
 ---
 
-# 📈 Atualmente estudando
+## 📈 Em construção
 
-* JavaScript
-* Python
-* SQL
-* APIs
-* Back-end
-* React
-* Banco de Dados
-* Desenvolvimento Full Stack
+Este GitHub representa minha evolução.
+
+Não estou apenas acumulando tecnologias. Estou construindo minha base, praticando, desenvolvendo projetos e documentando minha evolução.
+
+**Do primeiro algoritmo ao desenvolvimento de aplicações Full Stack.**
 
 ---
 
-# 📫 Contato
+## 🔗 Onde me encontrar
 
-📧 **Email:** [diegopassos603@gmail.com](mailto:diegopassos603@gmail.com)
+* 💼 LinkedIn: [Diego Nascimento Passos](https://www.linkedin.com/in/diego-passos-390a49201/)
+* 💻 GitHub: [diego-nascimento](https://github.com/diego-nascimento)
 
-🔗 **LinkedIn:**
-https://www.linkedin.com/in/diego-passos-390a49201
-
----
-
-## 🚀 Em constante aprendizado
-
-> "Cada projeto é uma oportunidade para aprender algo novo e transformar conhecimento em prática."
